@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas",
         "type": "Canvas",
         "duration": 38.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas/bethany_test.json",
+            "label": "Bethany_test"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/paintings",

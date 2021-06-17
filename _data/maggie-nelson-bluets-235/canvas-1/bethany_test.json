@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas/bethany_test.json",
+  "type": "AnnotationPage",
+  "label": "Bethany_test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas/bethany_test-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Maggie Nelson talking about the blues",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas/bethany_test-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Maggie Nelson reading",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3,5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas/bethany_test-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sample annotation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10,12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas/bethany_test-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "testing ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "15"
+        }
+      }
+    }
+  ]
+}
