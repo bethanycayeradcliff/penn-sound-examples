@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Maggie Nelson Bluets #235" ] },
+    "label": { "en": [ "Maggie Nelson Bluets 235" ] },
     "homepage": [
       {
         "id": "https://writing.upenn.edu/pennsound/x/Nelson.php",
         "type": "Text",
-        "label": { "en": [ "Maggie Nelson Bluets #235" ] },
+        "label": { "en": [ "Maggie Nelson Bluets 235" ] },
         "format": "text/html"
       }
     ],
@@ -22,7 +22,7 @@
       {
         "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas",
         "type": "Canvas",
-        "duration": :38,
+        "duration": 38.0,
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/paintings",
@@ -36,7 +36,7 @@
                   "id": "https://media.sas.upenn.edu/pennsound/authors/Nelson/4-26-13/Nelson-Maggie_235_MFA-Reading-Series_Boise-State-University_04-26-2013.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": :38
+                    "duration": 38.0
                 },
                 "target": "https://bethanycayeradcliff.github.io/penn-sound-examples/maggie-nelson-bluets-235/canvas-1/canvas"
               }
